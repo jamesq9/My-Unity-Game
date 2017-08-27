@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 9f28773b4764c684299faaa0cee43764
+timeCreated: 1468064444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemyball - final_0
+    21300002: enemyball - final_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemyball - final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -37}
+        - {x: 120, y: 32}
+        - {x: 107, y: 65}
+        - {x: 73, y: 99}
+        - {x: 35, y: 120}
+        - {x: -38, y: 120}
+        - {x: -69, y: 106}
+        - {x: -106, y: 64}
+        - {x: -120, y: 32}
+        - {x: -120, y: -41}
+        - {x: -101, y: -84}
+        - {x: -73, y: -107}
+        - {x: -37, y: -126}
+        - {x: 37, y: -126}
+        - {x: 65, y: -114}
+        - {x: 84, y: -97}
+        - {x: 105, y: -72}
+    - name: enemyball - final_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -37}
+        - {x: 120, y: 32}
+        - {x: 107, y: 65}
+        - {x: 73, y: 99}
+        - {x: 35, y: 120}
+        - {x: -38, y: 120}
+        - {x: -69, y: 106}
+        - {x: -106, y: 64}
+        - {x: -120, y: 32}
+        - {x: -120, y: -41}
+        - {x: -101, y: -84}
+        - {x: -73, y: -107}
+        - {x: -37, y: -126}
+        - {x: 37, y: -126}
+        - {x: 65, y: -114}
+        - {x: 84, y: -97}
+        - {x: 105, y: -72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

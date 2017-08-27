@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: befb14353a45fa54daa48fe87db612c8
+timeCreated: 1467741008
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Door Sprite_0
+    21300002: Door Sprite_1
+    21300004: Door Sprite_2
+    21300006: Door Sprite_3
+    21300008: Door Sprite_4
+    21300010: Door Sprite_5
+    21300012: Door Sprite_6
+    21300014: Door Sprite_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Door Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 114}
+        - {x: -52, y: -85}
+        - {x: -52, y: -114}
+        - {x: 52, y: -114}
+        - {x: 52, y: -85}
+        - {x: 50, y: -83}
+        - {x: 31, y: 114}
+    - name: Door Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.944443, y: -88}
+        - {x: 53.055557, y: -88}
+        - {x: 53.055557, y: 72}
+        - {x: 48.055557, y: 114}
+        - {x: -30.944443, y: 114}
+        - {x: -51.944443, y: -45}
+    - name: Door Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.111115, y: 114}
+        - {x: -30.888885, y: 114}
+        - {x: -51.888885, y: -18}
+        - {x: -51.888885, y: -59}
+        - {x: 51.111115, y: -59}
+        - {x: 52.111115, y: -57}
+        - {x: 52.111115, y: -28}
+        - {x: 50.111115, y: -26}
+    - name: Door Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.166687, y: 114}
+        - {x: -29.833313, y: 114}
+        - {x: -51.833313, y: 9}
+        - {x: -51.833313, y: -31}
+        - {x: 51.166687, y: -31}
+        - {x: 53.166687, y: -29}
+        - {x: 53.166687, y: 0}
+        - {x: 51.166687, y: 2}
+    - name: Door Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.77777, y: 114}
+        - {x: -51.77777, y: 31}
+        - {x: -51.77777, y: -2}
+        - {x: 52.22223, y: -2}
+        - {x: 52.22223, y: 34}
+        - {x: 31.222229, y: 114}
+    - name: Door Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.277832, y: 114}
+        - {x: -29.722168, y: 114}
+        - {x: -51.722168, y: 57}
+        - {x: -51.722168, y: 28}
+        - {x: -49.722168, y: 26}
+        - {x: 51.277832, y: 26}
+        - {x: 53.277832, y: 28}
+        - {x: 53.277832, y: 57}
+        - {x: 51.277832, y: 59}
+    - name: Door Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.333374, y: 114}
+        - {x: -51.666626, y: 114}
+        - {x: -51.666626, y: 55}
+        - {x: 50.333374, y: 55}
+        - {x: 52.333374, y: 57}
+        - {x: 52.333374, y: 108}
+    - name: Door Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.611084, y: 114}
+        - {x: -51.611084, y: 85}
+        - {x: -49.611084, y: 83}
+        - {x: 51.388916, y: 83}
+        - {x: 53.388916, y: 85}
+        - {x: 53.388916, y: 114}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
